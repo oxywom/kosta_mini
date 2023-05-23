@@ -11,6 +11,6 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 
-<p> kost mini project </p>
+
 </body>
 </html>
